@@ -325,7 +325,8 @@
 .testimonials {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	gap: 4.8rem;
+	row-gap: 4.8rem;
+	column-gap: 8rem;
 }
 
 .testimonial-img {
@@ -349,6 +350,7 @@
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
 	gap: 1.6rem;
+	padding: 1.6rem;
 }
 
 .gallery-item img {
