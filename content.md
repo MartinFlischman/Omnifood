@@ -107,9 +107,9 @@ I got Omnifood for the whole family, and it frees up so much time! Plus, everyth
 
 ### Contact information
 
-Address: 25 Broom Rd, Hogwarts House, Cape Town, 8000
-Phone: +27 800 777 777
-Email: hello@omnifood.com
+Address: 25 Diagon Alley, Hogwarts House, Cape Town, 8000
+Phone: +27 860 777 777
+Email: hello@omnifood.co.za
 
 Social profiles: instagram, facebook, twitter [links to them not available yet]
 
@@ -119,10 +119,12 @@ Create account
 Sign in
 iOS app
 Android app
+
 About Omnifood
 For Business
 Cooking partners
 Careers
+
 Recipe directory
 Help center
 Privacy & terms

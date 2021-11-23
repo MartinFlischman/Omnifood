@@ -24,7 +24,10 @@
 	</head>
 	<body>
 		<header class="header">
-			<img src="img/omnifood-logo.png" alt="Omnifood logo" class="logo" />
+			<a href="#">
+				<img src="img/omnifood-logo.png" alt="Omnifood logo" class="logo" />
+			</a>
+
 			<nav class="main-nav">
 				<ul class="main-nav-list">
 					<li><a href="#" class="main-nav-link">Section 1</a></li>
@@ -78,19 +81,13 @@
 
 			<section class="section-featured">
 				<div class="container">
-					<h2 class="heading-featured-in">As featured in</h2>
+					<h2 class="heading-featured-in">As featured by</h2>
 					<div class="logos">
-						<img src="img/logos/techcrunch.png" alt="TechCrunch logo" />
-						<img
-							src="img/logos/business-insider.png"
-							alt="Business Insider logo"
-						/>
-						<img
-							src="img/logos/the-new-york-times.png"
-							alt="The New York Times logo"
-						/>
+						<img src="img/logos/mens-health.png" alt="Mens Health logo" />
 						<img src="img/logos/forbes.png" alt="Forbes logo" />
-						<img src="img/logos/usa-today.png" alt="USA Today logo" />
+						<img src="img/logos/" alt=" logo" />
+						<img src="img/logos/food-home.png" alt="Food Home logo" />
+						<img src="img/logos/businesstech.webp" alt="BusinessTech logo" />
 					</div>
 				</div>
 			</section>
@@ -544,7 +541,7 @@
 									<input
 										type="text"
 										id="full-name"
-										placeholder="John Smith"
+										placeholder="Tarryn Williams"
 										required
 									/>
 								</div>
@@ -554,7 +551,7 @@
 									<input
 										type="email"
 										id="email"
-										placeholder="john@example.com"
+										placeholder="tarryn@example.com"
 										required
 									/>
 								</div>
@@ -582,6 +579,59 @@
 			</section>
 		</main>
 
-		<footer class="footer"></footer>
+		<footer class="footer">
+			<div class="container grid grid--5-cols">
+				<div class="logo-col">
+					<a href="#" class="footer-logo">
+						<img src="img/omnifood-logo.png" alt="Omnifood logo" class="logo" />
+					</a>
+
+					<p class="copyright">
+						Copyright &copy; 2027 by Omnifood, Inc. All rights reserved.
+					</p>
+				</div>
+				<div class="address-col">
+					<p class="footer-heading">Contact us</p>
+					<address class="contacts">
+						<p>25 Diagon Alley, Hogwarts House, Cape Town, 8000</p>
+						<p>
+							<a href="tel:+27 860 777 777">+27 860 777 777</a>
+						</p>
+						<p>
+							<a href="mailto:hello@omnifood.co.za">hello@omnifood.co.za</a>
+						</p>
+					</address>
+				</div>
+
+				<nav class="nav-col">
+					<p class="footer-heading">Account</p>
+					<ul class="footer-nav">
+						<li><a href="#">Create account</a></li>
+						<li><a href="#">Sign in</a></li>
+						<li><a href="#">iOS app</a></li>
+						<li><a href="#">Android app</a></li>
+					</ul>
+				</nav>
+
+				<nav class="nav-col">
+					<p class="footer-heading">Company</p>
+					<ul class="footer-nav">
+						<li><a href="#">About Omnifood</a></li>
+						<li><a href="#">For Business</a></li>
+						<li><a href="#">Cooking partners</a></li>
+						<li><a href="#">Careers</a></li>
+					</ul>
+				</nav>
+
+				<nav class="nav-col">
+					<p class="footer-heading">Resources</p>
+					<ul class="footer-nav">
+						<li><a href="#">Recipe directory</a></li>
+						<li><a href="#">Help center</a></li>
+						<li><a href="#">Privacy & terms</a></li>
+					</ul>
+				</nav>
+			</div>
+		</footer>
 	</body>
 </html>
