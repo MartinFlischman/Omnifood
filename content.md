@@ -108,7 +108,7 @@ I got Omnifood for the whole family, and it frees up so much time! Plus, everyth
 ### Contact information
 
 Address: 25 Diagon Alley, Hogwarts House, Cape Town, 8000
-Phone: +27 860 777 777
+Phone: +27 899 000 000
 Email: hello@omnifood.co.za
 
 Social profiles: instagram, facebook, twitter [links to them not available yet]
