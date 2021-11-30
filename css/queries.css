@@ -17,7 +17,7 @@
 }
 
 /*********************************/
-/* BELOW 1200px (Landscape Tablets)*/
+/* BELOW 1200px (Tablets - Landscape)*/
 /*********************************/
 
 @media only screen and (max-width: 75em) {
@@ -52,5 +52,15 @@
 
 	.testimonials-container {
 		padding: 9.6rem 3.2rem;
+	}
+}
+
+/*********************************/
+/* BELOW 944px (Tablets - Portrait)*/
+/*********************************/
+
+@media only screen and (max-width: 59em) {
+	html {
+		font-size: 50%;
 	}
 }
