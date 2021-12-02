@@ -16,7 +16,7 @@
 }
 
 /*********************************/
-/* MAIN NAVIGATION */
+/* NAVIGATION */
 /*********************************/
 
 .main-nav-list {
@@ -54,14 +54,12 @@
 	background-color: #cf711f;
 }
 
-/*********************************/
-/* MOBILE NAVIGATION */
-/*********************************/
-
+/* MOBILE */
 .btn-mobile-nav {
 	border: none;
 	background: none;
 	cursor: pointer;
+	display: none;
 }
 
 .icon-mobile-nav {
